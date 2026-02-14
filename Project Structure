@@ -1,0 +1,12 @@
+TempHumidityLogger/
+├── src/
+│   ├── Main.java
+│   ├── SensorReading.java
+│   ├── DataLogger.java
+│   ├── Statistics.java
+│   └── CSVExporter.java
+├── screenshots/
+│   ├── menu.png
+│   ├── readings.png
+│   └── excel-graph.png
+└── README.md
